@@ -7,6 +7,3 @@
 4. `sudo systemctl enable app.service`
 
 5. `sudo systemctl start app.service`
-
-
-test
